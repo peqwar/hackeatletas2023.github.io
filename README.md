@@ -6,3 +6,7 @@ El propósito de este proyecto es sumergirse en el análisis de datos para desen
 
 
 Para lograr este objetivo, se examinarán datos detallados de partidos internacionales de fútbol, abarcando un período que va desde 1993 hasta 2022. Estos datos proporcionan una ventana a una amplia variedad de escenarios y situaciones de juego a nivel global, permitiendo un análisis completo y en profundidad. Mediante la aplicación de técnicas estadísticas y herramientas de visualización, se pretende identificar patrones, tendencias y relaciones significativas entre el factor de jugar como local, la posición en el ranking FIFA y el resultado final del partido. Finalmente, se utilizará un modelo de regresión logística para predecir la probabilidad de victoria de un equipo en función de su posición en el ranking FIFA, su condición de local o visitante y otras variables.
+
+## Recursos:
+- [Página web del estudio](https://idanierudev.github.io/)
+- [Jupyter Notebook del estudio](https://github.com/peqwar/hackeatletas2023.github.io/blob/main/Hackaton_FIFAver5.ipynb)
